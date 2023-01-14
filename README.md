@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeshan Basaran</h1>
-<h3 align="center">A computer science student at Towson University.</h3>
+<h3 align="center">I'm currently studying computer science at Towson University. My interests include software design and development, artificial intelligence, and machine learning..</h3>
 
 - 📫 How to reach me **zeshan.basaran@gmail.com**
 
